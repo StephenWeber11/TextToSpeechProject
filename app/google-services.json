@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "782147862874",
+    "firebase_url": "https://texttospeechtwitter.firebaseio.com",
+    "project_id": "texttospeechtwitter",
+    "storage_bucket": "texttospeechtwitter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782147862874:android:7134cc5ff0a6c4d7",
+        "android_client_info": {
+          "package_name": "com.systemintegration.uncc.texttospeechproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782147862874-o3fmnqhahkcsn0lt31u7kutfc96mk9e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.systemintegration.uncc.texttospeechproject",
+            "certificate_hash": "c094b9f7861458cc2d1adbf1881f5b04de8d275f"
+          }
+        },
+        {
+          "client_id": "782147862874-h1laecr64hnms440sq7hqq3c9ehm3cab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nsRtxxAStbaS0lm1V5Qk6OY59pYBqQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782147862874-h1laecr64hnms440sq7hqq3c9ehm3cab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
